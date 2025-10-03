@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning for Tensorflow Developer Cert
-- 🔭 I’m currently on track to become Data Scientist and further become Product Owner
+- 🌱 I'm looking for PhD opportunities in reinforcement learning in indoor climate monitoring and control.
+- 🔭 I’m currently on track to become Data Scientist Manager.
